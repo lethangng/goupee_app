@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goup App</string>
+    <string name="facebook_app_id">1200663664233492</string>
+    <string name="fb_login_protocol_scheme">fb1200663664233492</string>
+    <string name="facebook_client_token">f0080367fd498cada7888125117f7c19</string>
+</resources>

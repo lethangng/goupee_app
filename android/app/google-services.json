@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259638955107",
+    "project_id": "goup-app",
+    "storage_bucket": "goup-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259638955107:android:3fe70def42183a4a5d3c56",
+        "android_client_info": {
+          "package_name": "com.example.goup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmhD0ITH63BddKU3dxg275b8US-CHlMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
